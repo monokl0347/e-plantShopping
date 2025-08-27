@@ -6,3 +6,4 @@ export default defineConfig({
   base: "/e-plantShopping/", // <-- add trailing slash
   plugins: [react()],
 })
+
